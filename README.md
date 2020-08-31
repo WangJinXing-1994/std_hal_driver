@@ -1,8 +1,8 @@
 <!--
  * @Author: wangjinxing
  * @Date: 2020-08-31 12:48:44
- * @LastEditTime: 2020-08-31 12:49:33
- * @LastEditors: Add i2c
+ * @LastEditTime: 2020-08-31 13:32:18
+ * @LastEditors: Please set LastEditors
  * @Description: std_driver
  * @FilePath: \undefinede:\github\std_hal_driver\README.md
 -->
@@ -11,4 +11,4 @@
 
 ## support
 目前支持：
-[*]  I2C
+- [x] I2C
